@@ -1,5 +1,5 @@
 """MiniGPT core package."""
 
-from .tensor import Tensor
+from core.tensor import Tensor
 
 __all__ = ["Tensor"]
